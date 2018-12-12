@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Gamerules.cpp
+c:\users\kanran\desktop\l&a\itp\conway's_game_of_life\conway's_game_of_life\gamerules.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\kanran\desktop\l&a\itp\conway's_game_of_life\conway's_game_of_life\gamerules.cpp(144): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Conway's_Game_of_Life.vcxproj -> C:\Users\Kanran\Desktop\L&A\ITP\Conway's_Game_of_Life\Debug\Conway's_Game_of_Life.exe
+  Conway's_Game_of_Life.vcxproj -> C:\Users\Kanran\Desktop\L&A\ITP\Conway's_Game_of_Life\Debug\Conway's_Game_of_Life.pdb (Partial PDB)
